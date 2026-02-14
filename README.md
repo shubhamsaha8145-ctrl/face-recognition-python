@@ -1,4 +1,4 @@
-## Day 7 – Accuracy Observation
+## Accuracy Observation
 
 | Tolerance | Correct | Wrong | Unknown |
 |-----------|---------|-------|---------|
